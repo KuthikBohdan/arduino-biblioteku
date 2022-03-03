@@ -1,6 +1,7 @@
 <html>
     <head>
     <link rel="biblotekashit" href="biblioteka.css"/>
+        <title>arduino бібліотеки</title>
     </head>
 <body>
     <img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2021/04/arduino-logo.jpg" width="1500px" height="400px/">
