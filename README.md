@@ -16,9 +16,6 @@ top: 0px;>
                       </li></p>
                    <p>    <li><nav><a href="https://drive.google.com/file/d/19qXFfJ_KRVoBm1hCQoW4gqnK2HmYR5aA/view?usp=sharing">RemoteXY </a></nav>
                         ця arduino бібліотека є для програмування ESP 8266 з редактора    <nav><a href="">RemoteXY</a></nav></li>
-                  
-                      
-                
         <p>   <li><nav><a href=""></a></nav>
                         ця arduino бібліотека є для   <nav><a href="">-</a></nav></li></p>
        <p>    <li><nav><a href=""></a></nav>
@@ -32,9 +29,7 @@ top: 0px;>
      <p>      <li><nav><a href=""></a></nav>
                         ця arduino бібліотека є для  <nav><a href="">-</a></nav></li></p>
      <p>      <li><nav><a href=""></a></nav>
-                        ця arduino бібліотека є для   <nav><a href="">-</a></nav></li></p>
-
-                    
+                        ця arduino бібліотека є для   <nav><a href="">-</a></nav></li></p> 
      <p>      <li><nav><a href=""></a></nav>
                         ця arduino бібліотека є для  <nav><a href="">-</a></nav></li></p>
      <p>      <li><nav><a href=""></a></nav>
@@ -55,7 +50,6 @@ top: 0px;>
                         ця arduino бібліотека є для <nav><a href="">-</a></nav></li></p>
      <p>      <li><nav><a href=""></a></nav>
                         ця arduino бібліотека є для  <nav><a href="">-</a></nav></li></p>
-     
      <p>      <li><nav><a href=""></a></nav>
                         ця arduino бібліотека є для  <nav><a href="">-</a></nav></li></p>
                 </ul>
