@@ -3,7 +3,7 @@
     <link rel="biblotekashit" href="biblioteka.css"/>
     </head>
 <body>
-    <img src="https://all-arduino.ru/wp-content/uploads/cropped-cropped-arduino-bluetooth-control.png" width="1500px" height="850px/">
+    <img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2021/04/arduino-logo.jpg" width="1500px" height="400px/">
     <h1>arduino бібліотеки </h1>
     <ul>
                     <li><nav><a href="https://drive.google.com/file/d/1OBP--R6UXi14gwpj92Sb23oyYJr1dBmD/view?usp=sharing">LCD_1602_RUS-maste</a></nav>
