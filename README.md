@@ -10,7 +10,7 @@ height: 512px;
 left: 468px;
 top: 0px;>
     <h1>arduino бібліотеки </h1>
-    <ul>
+    <ul list-style:url("http://infostart.ru/upload/iblock/04c/04cf68dd9a2145d72b38fb3a36c7ba91.jpg");>
                     <li><nav><a href="https://drive.google.com/file/d/1OBP--R6UXi14gwpj92Sb23oyYJr1dBmD/view?usp=sharing">LCD_1602_RUS-maste</a></nav>
                         це arduino бібліотека є для невеликого екранчика <nav><a href="https://drive.google.com/drive/folders/1MAwPCHEaOBT2u5qTF35yW6i96RCKJccw?usp=sharing">LCD_1602_</a></nav>
                         </li>
