@@ -1,1 +1,60 @@
-# arduino-biblioteku
+<html>
+    <head>
+    <link rel="biblotekashit" href="biblioteka.css"/>
+    </head>
+<body>
+    <img src="https://all-arduino.ru/wp-content/uploads/cropped-cropped-arduino-bluetooth-control.png" width="1500px" height="850px/">
+    <h1>arduino бібліотеки </h1>
+    <ul>
+                    <li><nav><a href="https://drive.google.com/file/d/1OBP--R6UXi14gwpj92Sb23oyYJr1dBmD/view?usp=sharing">LCD_1602_RUS-maste</a></nav>
+                        це arduino бібліотека є для невеликого екранчика <nav><a href="https://drive.google.com/drive/folders/1MAwPCHEaOBT2u5qTF35yW6i96RCKJccw?usp=sharing">LCD_1602_</a></nav>
+                        </li>
+                    <li><nav><a href="https://drive.google.com/file/d/19qXFfJ_KRVoBm1hCQoW4gqnK2HmYR5aA/view?usp=sharing">RemoteXY </a></nav>
+                        ця arduino бібліотека є для програмування ESP 8266 з редактора    <nav><a href="">RemoteXY</a></nav></li>
+                   <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для   <nav><a href="">-</a></nav></li><li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для   <nav><a href="">-</a></nav></li>
+        <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для   <nav><a href="">-</a></nav></li>
+        <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для   <nav><a href="">-</a></nav></li>
+        <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для   <nav><a href="">-</a></nav></li>
+        <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для   <nav><a href="">-</a></nav></li>
+        <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для   <nav><a href="">-</a></nav></li>
+        <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для   <nav><a href="">-</a></nav></li>
+        <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для  <nav><a href="">-</a></nav></li>
+        <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для   <nav><a href="">-</a></nav></li>
+        <li><nav><a href=""></a></nav>
+                       
+        <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для  <nav><a href="">-</a></nav></li>
+        <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для  <nav><a href="">-</a></nav></li>
+        <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для  <nav><a href="">-</a></nav></li>
+        <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для  <nav><a href="">-</a></nav></li>
+        <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для  <nav><a href="">-</a></nav></li>
+        <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для  <nav><a href="">-</a></nav></li>
+        <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для <nav><a href="">-</a></nav></li>
+        <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для <nav><a href="">-</a></nav></li>
+        <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для <nav><a href="">-</a></nav></li>
+        <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для  <nav><a href="">-</a></nav></li>
+     
+        <li><nav><a href=""></a></nav>
+                        ця arduino бібліотека є для  <nav><a href="">-</a></nav></li>
+                </ul>
+</body>
+</html>
