@@ -4,7 +4,11 @@
         <title>arduino бібліотеки</title>
     </head>
 <body>
-    <img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2021/04/arduino-logo.jpg" width="1500px" height="400px/">
+    <img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2021/04/arduino-logo.jpg" width="1500px" height="400px/"position: absolute;
+width: 512px;
+height: 512px;
+left: 468px;
+top: 0px;>
     <h1>arduino бібліотеки </h1>
     <ul>
                     <li><nav><a href="https://drive.google.com/file/d/1OBP--R6UXi14gwpj92Sb23oyYJr1dBmD/view?usp=sharing">LCD_1602_RUS-maste</a></nav>
