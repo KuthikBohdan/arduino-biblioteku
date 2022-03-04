@@ -1,6 +1,6 @@
 <html>
     <head>
-    <link rel="biblotekashit" href="biblioteka.css"/>
+    <link rel="stylesheet" href="style.css"/>
         <title>arduino бібліотеки</title>
     </head>
 <body>
