@@ -1,6 +1,6 @@
 <html>
     <head>
-    <link rel="st" href="st"/>
+    <link rel="style" href="style.css"/>
     </head>
 <body>
     <img src="https://all-arduino.ru/wp-content/uploads/cropped-cropped-arduino-bluetooth-control.png" width="400px" height="300px/">
