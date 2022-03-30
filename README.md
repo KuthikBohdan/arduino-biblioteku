@@ -3,7 +3,7 @@
     <link rel="st" href="st"/>
     </head>
 <body>
-    <img src="https://all-arduino.ru/wp-content/uploads/cropped-cropped-arduino-bluetooth-control.png" width="400px" height="500px/">
+    <img src="https://all-arduino.ru/wp-content/uploads/cropped-cropped-arduino-bluetooth-control.png" width="400px" height="300px/">
     <h1>arduino бібліотеки </h1>
     <ul>
                     <li><h2>скачати</h2>
