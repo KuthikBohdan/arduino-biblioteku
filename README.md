@@ -3,6 +3,8 @@
     <link rel="style" href="style.css"/>
     </head>
 <body>
+    <img src="https://prv3.lori-images.net/0006020471-larger.jpg">
+     <img src="https://prv3.lori-images.net/0006020471-larger.jpg">
     <img src="https://all-arduino.ru/wp-content/uploads/cropped-cropped-arduino-bluetooth-control.png" width="400px" height="300px/">
     <h1>arduino бібліотеки </h1>
     <ul>
