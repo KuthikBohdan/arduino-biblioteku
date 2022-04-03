@@ -6,7 +6,7 @@
     <img src="https://all-arduino.ru/wp-content/uploads/cropped-cropped-arduino-bluetooth-control.png" width="400px" height="300px/">
     <h1>arduino бібліотеки </h1>
     <ul>
-                    <li><h2>скачати</h2>
+                    <li><nav><a href=""<h2>скачати</h2>
                         <h3>скачатиLCD_1602_rus</h3> 
                         <h3> це arduino бібліотека є для невеликого екранчика</h3><h2>LCD_1602</h2><h3>
                         <h3>LCD_1602</h3>
