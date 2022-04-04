@@ -6,8 +6,6 @@
         
     </header>
 <body>
-    <img src="https://prv3.lori-images.net/0006020471-larger.jpg">
-     <img src="https://prv3.lori-images.net/0006020471-larger.jpg">
     <h1>arduino бібліотеки </h1>
     <ul>
         <li><nav><a href="https://drive.google.com/file/d/1OBP--R6UXi14gwpj92Sb23oyYJr1dBmD/view?usp=sharing">скачати бібліотеку LCD_1602 rus </a></nav>
