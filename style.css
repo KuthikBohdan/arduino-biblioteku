@@ -29,6 +29,9 @@ height: 2359px;
 
 background: url(0006020471-larger.jpg);
 }
-body h2{
+body h3{
     color:blue;
+}
+body{
+    color:#ebb434;
 }
