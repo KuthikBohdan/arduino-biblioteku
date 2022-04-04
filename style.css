@@ -21,8 +21,10 @@ ul{
     list-style:url("http://infostart.ru/upload/iblock/04c/04cf68dd9a2145d72b38fb3a36c7ba91.jpg" with20px hight20px);
 }
 body img{
-    position: absolute;
+   
+position: absolute;
 width: 1800px;
 height: 2359px;
-    
+
+background: url(0006020471-larger.jpg);
 }
