@@ -6,7 +6,7 @@
         
     </header>
 <body>
-    <img src="https://prv3.lori-images.net/0006020471-larger.jpg">
+    <img src="https://prv3.lori-images.net/0006020471-larger.jpg"width"1500px"height"5000px"/>
      <img src="https://prv3.lori-images.net/0006020471-larger.jpg">
     <h1>arduino бібліотеки </h1>
     <ul>
