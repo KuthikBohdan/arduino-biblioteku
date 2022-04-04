@@ -11,7 +11,7 @@
         <li><nav><a href="https://drive.google.com/file/d/1OBP--R6UXi14gwpj92Sb23oyYJr1dBmD/view?usp=sharing">
   
             <h2>скачати бібліотеку LCD_1602 rus</h2> </a></nav>
-            <nav><a href="https://aliexpress.ru/item/32413056677.html?sku_id=12000018724233411&spm=a2g0o.search.0.0.62d3568dJs8RmP"><h2>LCD 16×02 i2c купити  </h2>
+            <nav><a href="https://aliexpress.ru/item/32413056677.html?sku_id=12000018724233411&spm=a2g0o.search.0.0.62d3568dJs8RmP"><h2>LCD 16×02 i2c купити  </h2></a></nav>
             <h3><p>це arduino бібліотека є для невеликого екранчика LCD 16×02 i2c</p>
                 <p>це добрий варіант для ардуіно  щоб виводити різні результати ардуіно скучі</p>
                 <p>і навідміно від семи сегмнтоному ідикатору такош коли не вистачає виходів</p> 
