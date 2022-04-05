@@ -5,7 +5,7 @@
     <header>    <img src="https://all-arduino.ru/wp-content/uploads/cropped-cropped-arduino-bluetooth-control.png" width="400px" height="300px/">
         <h1>arduino бібліотеки </h1>
     </header>
-<body>
+<body background = "https://pixabay.com/static/uploads/photo/2015/05/05/09/59/triangle-753534_960_720.png">
     
     <ul> <img src="https://nettigo.pl/system/images/2092/original.jpg?1488984564" width="400px" height="300px/">
         <li><nav><a href="https://drive.google.com/file/d/1OBP--R6UXi14gwpj92Sb23oyYJr1dBmD/view?usp=sharing">
