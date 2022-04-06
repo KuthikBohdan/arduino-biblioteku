@@ -1,7 +1,7 @@
 header img{
     
     position: absolute;
-width: 512px;
+width: 582px;
 height: 512px;
 left: 468px;
 top: 0px;
@@ -20,12 +20,7 @@ color: #AB7B00;}
 ul{
     list-style:url("http://infostart.ru/upload/iblock/04c/04cf68dd9a2145d72b38fb3a36c7ba91.jpg" with20px hight20px);
 }
-body img{
- fone-size:100px;
-   
-position: absolute;
-width: 1800px;
-height: 2359px;
+
 
 background: url(0006020471-larger.jpg);
 }
