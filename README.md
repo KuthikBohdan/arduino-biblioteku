@@ -66,5 +66,9 @@
         <li><nav><a href=""></a></nav>
                         ця arduino бібліотека є для  <nav><a href="">-</a></nav></li>
                 </ul>
+    <div class="bokova panel">
+        
+        
+    </div>
 </body>
 </html>
