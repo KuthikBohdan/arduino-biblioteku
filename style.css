@@ -37,4 +37,5 @@ h2{
 }
 .bokova panel{
     left:10px;
+    display: flex;
 }
