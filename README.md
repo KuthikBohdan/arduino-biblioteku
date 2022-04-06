@@ -2,12 +2,12 @@
     <head>
     <link rel="style" href="style.css"/>
     </head>
-    <header>    <img src="https://all-arduino.ru/wp-content/uploads/cropped-cropped-arduino-bluetooth-control.png" width="700px" height="390px/">
+    <header>    <img src="https://all-arduino.ru/wp-content/uploads/cropped-cropped-arduino-bluetooth-control.png" width="400px" height="390px/">
         <h1>arduino бібліотеки </h1>
     </header>
 <body background = "">
     
-    <ul> <img src="https://nettigo.pl/system/images/2092/original.jpg?1488984564" width="700px" height="390px/">
+    <ul> <img src="https://nettigo.pl/system/images/2092/original.jpg?1488984564" width="700px" height="300px/">
         <li><nav><a href="https://drive.google.com/file/d/1OBP--R6UXi14gwpj92Sb23oyYJr1dBmD/view?usp=sharing">
               <h2>скачати бібліотеку LCD_1602 rus</h2> </a></nav>
             <nav><a href="https://aliexpress.ru/item/32413056677.html?sku_id=12000018724233411&spm=a2g0o.search.0.0.62d3568dJs8RmP"><h2>LCD 16×02 i2c купити  </h2></a></nav>
