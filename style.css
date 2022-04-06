@@ -29,9 +29,12 @@ height: 2359px;
 
 background: url(0006020471-larger.jpg);
 }
-body h3{
+h3{
     color:blue;
 }
-body h2{
+h2{
     color:#ebb434;
+}
+.bokova panel{
+    left:10px
 }
