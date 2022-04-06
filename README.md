@@ -5,7 +5,7 @@
     <header>    <img src="https://all-arduino.ru/wp-content/uploads/cropped-cropped-arduino-bluetooth-control.png" width="400px" height="300px/">
         <h1>arduino бібліотеки </h1>
     </header>
-<body background = "https://prv3.lori-images.net/0006020471-larger.jpg">
+<body background = "https://www.google.pl/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fru%2F%25D0%25B2%25D0%25B5%25D0%25BA%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D0%25B0%25D1%258F%2F%25D1%258D%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25B8%25D1%2587%25D0%25B5%25D1%2581%25D0%25BA%25D0%25B0%25D1%258F-%25D1%2581%25D1%2585%25D0%25B5%25D0%25BC%25D0%25B0-%25D1%2581%25D0%25B8%25D0%25BD%25D0%25B8%25D0%25B9-%25D1%2584%25D0%25BE%25D0%25BD-%25D1%2582%25D0%25B5%25D0%25BA%25D1%2581%25D1%2582%25D1%2583%25D1%2580%25D1%258B-gm1147028753-309260691&psig=AOvVaw1Xou3AsFWK9U7ILoBxTFby&ust=1649252598192000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLDG04rq_vYCFQAAAAAdAAAAABAf">
     
     <ul> <img src="https://nettigo.pl/system/images/2092/original.jpg?1488984564" width="400px" height="300px/">
         <li><nav><a href="https://drive.google.com/file/d/1OBP--R6UXi14gwpj92Sb23oyYJr1dBmD/view?usp=sharing">
