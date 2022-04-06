@@ -2,7 +2,7 @@
     <head>
     <link rel="style" href="style.css"/>
     </head>
-    <header>    <img src="https://all-arduino.ru/wp-content/uploads/cropped-cropped-arduino-bluetooth-control.png" width="400px" height="390px/">
+    <header>    <img src="https://all-arduino.ru/wp-content/uploads/cropped-cropped-arduino-bluetooth-control.png" width="600px" height="390px/">
         <h1>arduino бібліотеки </h1>
     </header>
 <body background = "">
