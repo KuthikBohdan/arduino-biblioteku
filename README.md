@@ -19,8 +19,8 @@
                  <p>купувати оеремо ось схема для пайки цих двох плат</p> </h3>
             <img src="https://www.factoryforward.com/wp-content/uploads/2019/02/LCD-I2c-arduino-factoryforward.png" width="700px" height="390px/">
             
-             <nav><a href="https://remotexy.com/"><h3>RemoteXY</h3></nav>
-    <li> <nav><a href="https://drive.google.com/file/d/19qXFfJ_KRVoBm1hCQoW4gqnK2HmYR5aA/view?usp=sharing"><h3>скчати RemoteXY </h3></nav>
+             <nav><a href="https://remotexy.com/"><h3>RemoteXY</h3>
+    <li> <nav><a href="https://drive.google.com/file/d/19qXFfJ_KRVoBm1hCQoW4gqnK2HmYR5aA/view?usp=sharing"><h3>скчати RemoteXY </h3>
              <h3><p>ця бібіотека помагає в програмувані сайту remoute.xy силку я лишу зверху на цьму сайті</p>
                  <p>ви зможите зробити зробитити свій польт управліня такими модулями як</h3><h2> Bluetooth </p>
         <p>HC-05(06),Модуль ESP8266 WiFi,Ethernet W5100 шильд ESP32</h2></li>
