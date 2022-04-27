@@ -1,2 +1,6 @@
 .screenpage { display: none; }
 .show { display: block }
+.screenpage show:first-child{
+  pading: 20px;
+  
+}
