@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html>
+     <link rel="rdrsheet"
+            href="rdr.css">
 <head>
     <style>
         .screenpage { display: none; }
