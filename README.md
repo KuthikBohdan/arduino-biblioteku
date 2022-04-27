@@ -1,9 +1,14 @@
+<!DOCTYPE html>
 <html>
-  <head>
-<link rel="rdr" href="rdr.css"/>
-    <head>
+<head>
+    <style>
+        .screenpage { display: none; }
+.show { display: block }
+    </style>
+    <script src="/scripts/snippet-javascript-console.min.js?v=1"></script>
+</head>
 <body>
-<script src="https://github.com/KuthikBohdan/rd/blob/main/rd.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <div class=container>
   <div id="page0" class="screenpage show">1
     <div class="close">close</div>
@@ -36,5 +41,10 @@
     <div class="close">close</div>
   </div>
 </div>
-  </body>
-  </html>
+    <script type="text/javascript">
+        $('.close').click(function() {
+  $('.screenpage:visible').hide().siblings().eq(Math.floor(Math.random() * 9)).show();
+});
+    </script>
+</body>
+</html>
