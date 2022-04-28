@@ -15,7 +15,7 @@
   <div id="page0" class="screenpage show">
        <img src="https://image.shutterstock.com/image-illustration/ethereum-hits-new-record-neon-260nw-1958528764.jpg" height="100px"/>
        <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/FD37/production/_116432846_mediaitem116432845.jpg" height="100px"/>
-       <a href="sample.html"><img src="https://thumb.tildacdn.com/tild6664-3965-4361-b631-663461643039/-/format/webp/0-02-05-6d20ecf00906.jpg" width="300px"  height="370px"</a>
+       <a href="https://st.depositphotos.com/1637332/2929/v/450/depositphotos_29298565-stock-illustration-button-down-arrow-pointer.jpg" width="300px"  height="370px"</a>
        <a href="sample.html"><img src="https://thumb.tildacdn.com/tild6264-6339-4238-b636-346565623037/-/format/webp/0-02-05-6822e8ca7678.jpg" width="300px"  height="370px"</a>
         <a href="sample.html"><img src="https://thumb.tildacdn.com/tild6664-3965-4361-b631-663461643039/-/format/webp/0-02-05-6d20ecf00906.jpg" width="300px"  height="370px"</a>
           <a href="sample.html"><img src="https://thumb.tildacdn.com/tild6264-6339-4238-b636-346565623037/-/format/webp/0-02-05-6822e8ca7678.jpg" width="300px"  height="370px"</a>
