@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="rdrsheet"
-            href="rdr.css">
+    
     <style>
         img.screenpage showtr:last-child{
             pading-top:90px;
