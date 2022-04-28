@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <html>
-     <link rel="rdrsheet"
-            href="rdr.css">
 <head>
+    <link rel="rdrsheet"
+            href="rdr.css">
     <style>
+        img.screenpage showtr:last-child{
+            pading-top:90px;
+            pading-left:110px;
+            
+        }
+        img.screenpage showtr :first-child {
+            pading-top:90px;
+            pading-rite:110px
+        }
+        
         .screenpage { display: none; }
 .show { display: block }
     </style>
@@ -13,9 +23,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <div class=container>
   <div id="page0" class="screenpage show">
-       <nav><a href="https://github.com/KuthikBohdan/randoms/edit/main/README.md"> <img src="https://image.shutterstock.com/image-illustration/ethereum-hits-new-record-neon-260nw-1958528764.jpg" height="100px"/></a></nav>
-       <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/FD37/production/_116432846_mediaitem116432845.jpg" height="100px"/>
- 
+   <nav>  <a href="https://kuthikbohdan.github.io/rdrfalse/"> <img src="https://image.shutterstock.com/image-illustration/ethereum-hits-new-record-neon-260nw-1958528764.jpg"with"800px" height"600px"/></a></nav>
+       <nav> <a href="https://kuthikbohdan.github.io/rdrfalse/"><img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/FD37/production/_116432846_mediaitem116432845.jpg"with"800px" height="600px"/></a></nav>
+
     <div class="close">close</div>
   </div>
   <div id="page1" class="screenpage">2
@@ -43,6 +53,53 @@
     <div class="close">close</div>
   </div>
   <div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div>
+    <div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div>v<div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
+    <div class="close">close</div>
+  </div><div id="page9" class="screenpage">10
     <div class="close">close</div>
   </div>
 </div>
