@@ -3,6 +3,7 @@
 <head>
     
     <style>
+         <style type="text/css">
         img.screenpage showtr:last-child{
             pading-top:90px;
             pading-left:110px;
