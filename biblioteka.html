@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="rdrsheet" type="text/css" href="rdr.css" />
     <script src="/scripts/snippet-javascript-console.min.js?v=1"></script>
 </head>
 <body>
