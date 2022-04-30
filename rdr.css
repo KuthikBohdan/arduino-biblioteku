@@ -1,6 +1,9 @@
 .screenpage { display: none; }
+
 .show { display: block }
+
 .screenpage show img:first-child{
   pading: 20px;
   
 }
+
