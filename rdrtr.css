@@ -1,9 +1,10 @@
-h1{
+.screenpage show h1{
  display: flex;
   color:orange;
    text-align: center;
 }
-img{
+.screenpage show img{
+     padding-top: 50px;
 }
 
 
