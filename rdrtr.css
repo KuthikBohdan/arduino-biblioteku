@@ -1,6 +1,7 @@
 h1{
-  text-align:center;
+ display: flex;
   color:orange;
+   text-align: center;
 }
 
 
