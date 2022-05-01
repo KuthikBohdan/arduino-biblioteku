@@ -8,10 +8,10 @@
 <div class=container>
   <div id="page0" class="screenpage show">
       <h1>що є дорожче</h1>
+      <img src="https://image.shutterstock.com/image-illustration/ethereum-hits-new-record-neon-260nw-1958528764.jpg"/>
       
-   <nav>  <img src="https://image.shutterstock.com/image-illustration/ethereum-hits-new-record-neon-260nw-1958528764.jpg"with"800px" height"600px"/></nav> 
-      <nav> 
-          <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/FD37/production/_116432846_mediaitem116432845.jpg"with"300px" height="200px"/></nav>
+       <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/FD37/production/_116432846_mediaitem116432845.jpg"/>
+ 
 
     <div class="close">close</div>
   </div>
