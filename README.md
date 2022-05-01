@@ -1,7 +1,43 @@
 <html>
 <head>
     <style>
-
+.screenpage show h1{
+ display: flex;
+  color:orange;
+   text-align: center;
+}
+.screenpage show.page0class0{
+ pading-top:50px;
+ pading-rite:50px
+}
+.screenpage show.page0class1{
+ top:400px;
+ rite:90px;
+  width:170px;
+ height:100px;
+ position:relative;
+}
+.screenpage show.page0class2{
+ top:300px;
+  left:90px;
+  width:170px;
+ height:100px;
+ position:relative;
+}
+.screenpage show.page0class3{
+  top:400px;
+ left:90px;
+  width:170px;
+ height:100px;
+ position:relative;
+}
+.screenpage show.page0class4{
+ top:300px;
+ rite:90px;
+ width:170px;
+ height:100px;
+ position:relative;
+}
   </style>
 <link rel="rdrtrsheet" type="text/css" href="rdrtr.css" />
     <script src="/scripts/snippet-javascript-console.min.js?v=1"></script>
