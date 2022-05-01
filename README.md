@@ -8,7 +8,7 @@
 <div class=container>
   <div id="page0" class="screenpage show">
       <h1>що є дорожче</h1>
-      <img class="page0class0"src="https://www.imgonline.com.ua/result_img/imgonline-com-ua-2to1-r62FTTwYuYj.jpg"/>
+      <img src="https://www.imgonline.com.ua/result_img/imgonline-com-ua-2to1-r62FTTwYuYj.jpg"/>
      <img style="
    top:400px;
  left:90px;
