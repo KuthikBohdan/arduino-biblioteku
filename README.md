@@ -8,9 +8,18 @@
 <div class=container>
   <div id="page0" class="screenpage show">
       <h1>що є дорожче</h1>
-      <img src="https://image.shutterstock.com/image-illustration/ethereum-hits-new-record-neon-260nw-1958528764.jpg"/>
+      <img src="https://www.imgonline.com.ua/result_img/imgonline-com-ua-2to1-r62FTTwYuYj.jpg"/>
+     <p> <h2> </h2>
+      <h2></h2>
+      </p>
+    <p>
+    <h2> </h2>
+    <h2> </h2>
+    </p>
+    
+    
       
-       <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/FD37/production/_116432846_mediaitem116432845.jpg"/>
+
  
 
     <div class="close">close</div>
