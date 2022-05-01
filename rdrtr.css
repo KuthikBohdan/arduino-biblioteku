@@ -3,8 +3,13 @@
   color:orange;
    text-align: center;
 }
-.screenpage show img{
+.screenpage show img:last-child{
      padding-top: 50px;
+ pading-left:50px;
+}
+.screenpage show img:first-child{
+ padding-top: 50px;
+ padding-rite:50px
 }
 
 
