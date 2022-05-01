@@ -3,38 +3,37 @@
   color:orange;
    text-align: center;
 }
-.screenpage show img:last-child{
-  top:300px;
- rite:90px;
- width:170px;
- height:100px;
- position:relative;
-}
-.screenpage show img:first-child{
+.page0class0{
  pading-top:50px;
  pading-rite:50px
 }
-.screenpage show img:last-child (1){
+page0class1{
  top:400px;
- left:90px;
-  width:170px;
- height:100px;
- position:relative; 
-}
-.screenpage show img:last-child (2){
-  top:400px;
  rite:90px;
   width:170px;
  height:100px;
  position:relative;
 }
-.screenpage show img:last-child (3){
-  top:300px;
+page0class2{
+ top:300px;
   left:90px;
   width:170px;
  height:100px;
  position:relative;
-
+}
+page0class3{
+  top:400px;
+ left:90px;
+  width:170px;
+ height:100px;
+ position:relative;
+}
+page0class4{
+ top:300px;
+ rite:90px;
+ width:170px;
+ height:100px;
+ position:relative;
 }
 
 
