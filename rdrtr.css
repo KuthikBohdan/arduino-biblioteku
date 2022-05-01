@@ -6,6 +6,8 @@
 .screenpage show img:last-child{
   top:300px;
  rite:90px;
+ width="170px"
+ height="100px"
 }
 .screenpage show img:first-child{
  pading-top: 50px;
@@ -14,15 +16,21 @@
 .screenpage show img:last-child (1){
  top:400px;
  left:90px;
+  width="170px"
+ height="100px"
   
 }
 .screenpage show img:last-child (2){
   top:400px;
  rite:90px;
+  width="170px"
+ height="100px"
 }
 .screenpage show img:last-child (3){
   top:300px;
   left:90px;
+  width="170px"
+ height="100px"
 }
 
 
