@@ -35,6 +35,10 @@ page0class1{
  height:100px;
  position:relative;
 }
+.cat{
+    position: absolute;
+    left: 150px;
+    top:249px;
 
 
 
