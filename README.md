@@ -11,16 +11,16 @@
       
       <img src="https://www.imgonline.com.ua/result_img/imgonline-com-ua-2to1-r62FTTwYuYj.jpg"/>
         
+ <p>
+     <h2> </h2>
       
-     <img src="https://thumb.tildacdn.com/tild6664-3965-4361-b631-663461643039/-/format/webp/0-02-05-6d20ecf00906.jpg"/>
-         
+     <h2> </h2>
+      </p>
+    <p>
+     <h2> </h2>
       
-      <img class="page02"src="https://thumb.tildacdn.com/tild6264-6339-4238-b636-346565623037/-/format/webp/0-02-05-6822e8ca7678.jpg"/>
-    
-      <img class="page03"src="https://thumb.tildacdn.com/tild6664-3965-4361-b631-663461643039/-/format/webp/0-02-05-6d20ecf00906.jpg"/>
-                 
-      <img class="page04"src="https://thumb.tildacdn.com/tild6264-6339-4238-b636-346565623037/-/format/webp/0-02-05-6822e8ca7678.jpg"/>
-   
+     <h2> </h2>
+      </p>
     
       
 
