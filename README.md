@@ -12,7 +12,7 @@
       <img src="https://www.imgonline.com.ua/result_img/imgonline-com-ua-2to1-r62FTTwYuYj.jpg"/>
         
  <p>
- <img class="cat" src="/uploads/2021/03/cat-2798804_0_1615566450.svg" width="80px"/> <h2> </h2>
+ <img class="cat" src="https://www.imgonline.com.ua/result_img/imgonline-com-ua-2to1-r62FTTwYuYj.jpg" width="80px"/> <h2> </h2>
       
      <h2> </h2>
       </p>
