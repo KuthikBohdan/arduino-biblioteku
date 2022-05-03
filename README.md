@@ -25,7 +25,6 @@
 <img class="onefife" src="https://thumb.tildacdn.com/tild6264-6339-4238-b636-346565623037/-/format/webp/0-02-05-6822e8ca7678.jpg" width="100px" height="100px"/> 
 
       </p>
-
    <div class="close">close</div>
   <div id="page1" class="screenpage">2
     <div class="close">close</div>
