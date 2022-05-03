@@ -13,7 +13,7 @@
  <img class="onetwo" src="https://thumb.tildacdn.com/tild6664-3965-4361-b631-663461643039/-/format/webp/0-02-05-6d20ecf00906.jpg"/>     
  <img class="onethree" src="https://thumb.tildacdn.com/tild6264-6339-4238-b636-346565623037/-/format/webp/0-02-05-6822e8ca7678.jpg"/> 
  <img class="onefour" src="https://thumb.tildacdn.com/tild6664-3965-4361-b631-663461643039/-/format/webp/0-02-05-6d20ecf00906.jpg"/> 
-<img class="catfife" src="https://thumb.tildacdn.com/tild6264-6339-4238-b636-346565623037/-/format/webp/0-02-05-6822e8ca7678.jpg"/> 
+<img class="onefife" src="https://thumb.tildacdn.com/tild6264-6339-4238-b636-346565623037/-/format/webp/0-02-05-6822e8ca7678.jpg"/> 
  
 
     <div class="close">close</div>
