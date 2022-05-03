@@ -9,7 +9,9 @@
   <div id="page0" class="screenpage show">
       <h1>що є дорожче</h1>
       
-    <p><img src="https://thumb.tildacdn.com/tild6130-6466-4932-b236-333137323237/-/resize/804x/-/format/webp/6001368.png"/></a></p>
+    <p><img src="https://thumb.tildacdn.com/tild6130-6466-4932-b236-333137323237/-/resize/804x/-/format/webp/6001368.png"/></a>
+    <img src="https://thumb.tildacdn.com/tild6133-3732-4863-b638-313638383737/-/resize/736x/-/format/webp/Bitcoin.png"/></a>
+    </p>
       <p>
   <a href="https://www.w3schools.com">
       <img class="onetwo" src="https://thumb.tildacdn.com/tild6664-3965-4361-b631-663461643039/-/format/webp/0-02-05-6d20ecf00906.jpg" width="100px" height="100px"/>     </a>
