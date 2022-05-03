@@ -10,7 +10,7 @@
       <h1>що є дорожче</h1>
       
     <p>
-     <img src="https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-2to1-CzVMlcaMR0RW.jpg" width="500px" height="800px"/>
+     <img src="https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-2to1-CzVMlcaMR0RW.jpg" width="1000px" height="800px"/>
     </p>
       <p>
   <a href="https://www.w3schools.com">
