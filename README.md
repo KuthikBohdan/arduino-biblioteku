@@ -9,12 +9,13 @@
   <div id="page0" class="screenpage show">
       <h1>що є дорожче</h1>
       
-      <img src="https://www.imgonline.com.ua/result_img/imgonline-com-ua-2to1-r62FTTwYuYj.jpg"/>
+    <p>  <img src="https://www.imgonline.com.ua/result_img/imgonline-com-ua-2to1-r62FTTwYuYj.jpg"/></p>
+      <p>
  <img class="onetwo" src="https://thumb.tildacdn.com/tild6664-3965-4361-b631-663461643039/-/format/webp/0-02-05-6d20ecf00906.jpg" width="100px" height="100px"/>     
  <img class="onethree" src="https://thumb.tildacdn.com/tild6264-6339-4238-b636-346565623037/-/format/webp/0-02-05-6822e8ca7678.jpg" width="100px" height="100px"/> 
  <img class="onefour" src="https://thumb.tildacdn.com/tild6664-3965-4361-b631-663461643039/-/format/webp/0-02-05-6d20ecf00906.jpg" width="100px" height="100px"/> 
 <img class="onefife" src="https://thumb.tildacdn.com/tild6264-6339-4238-b636-346565623037/-/format/webp/0-02-05-6822e8ca7678.jpg" width="100px" height="100px"/> 
- 
+      </p>
 
     <div class="close">close</div>
   </div>
