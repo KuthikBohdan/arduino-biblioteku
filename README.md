@@ -10,7 +10,7 @@
      
   </div>
   <div id="page0" class="screenpage show">
-      <div class="close">close</div>
+      
       <h1>що є дорожче</h1>
       
     <p>
@@ -26,7 +26,7 @@
 
       </p>
 
-   
+   <div class="close">close</div>
   <div id="page1" class="screenpage">2
     <div class="close">close</div>
   </div>
