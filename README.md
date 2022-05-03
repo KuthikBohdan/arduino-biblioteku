@@ -10,7 +10,7 @@
       <h1>що є дорожче</h1>
       
       <img src="https://www.imgonline.com.ua/result_img/imgonline-com-ua-2to1-r62FTTwYuYj.jpg"/>
- <img class="onetwo" src="https://thumb.tildacdn.com/tild6664-3965-4361-b631-663461643039/-/format/webp/0-02-05-6d20ecf00906.jpg"width="170px" height="100px"/>     
+ <img class="onetwo" src="https://thumb.tildacdn.com/tild6664-3965-4361-b631-663461643039/-/format/webp/0-02-05-6d20ecf00906.jpg" width="170px" height="100px"/>     
  <img class="onethree" src="https://thumb.tildacdn.com/tild6264-6339-4238-b636-346565623037/-/format/webp/0-02-05-6822e8ca7678.jpg"/> 
  <img class="onefour" src="https://thumb.tildacdn.com/tild6664-3965-4361-b631-663461643039/-/format/webp/0-02-05-6d20ecf00906.jpg"/> 
 <img class="onefife" src="https://thumb.tildacdn.com/tild6264-6339-4238-b636-346565623037/-/format/webp/0-02-05-6822e8ca7678.jpg"/> 
