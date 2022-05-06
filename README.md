@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 <html>
 <head>
 <link rel="rdrtrsheet" type="text/css" href="rdrtr.css" />
