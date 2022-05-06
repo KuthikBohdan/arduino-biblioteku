@@ -18,8 +18,8 @@
       <h1>що є дорожче</h1>
       
     <p>
-     <img src="https://static.tildacdn.com/tild6130-6466-4932-b236-333137323237/6001368.png" width="1000px" height="400px"/>
-         <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/FD37/production/_116432846_mediaitem116432845.jpg" width="1000px" height="400px"/>
+     <img src="https://static.tildacdn.com/tild6130-6466-4932-b236-333137323237/6001368.png" width="400px" height="400px"/>
+         <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/FD37/production/_116432846_mediaitem116432845.jpg" width="400px" height="400px"/>
     </p>
       <p>
   <a href="https://www.w3schools.com">
