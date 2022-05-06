@@ -1,31 +1,27 @@
+
+
+
+
+
+
+
+
 <html>
 <head>
-    
 <link rel="rdrtrsheet" type="text/css" href="rdrtr.css" />
     <script src="/scripts/snippet-javascript-console.min.js?v=1"></script>
 </head>
 <body>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <div class=container>
-     
-  </div>
   <div id="page0" class="screenpage show">
-      
       <h1>що є дорожче</h1>
+  <img src="https://image.shutterstock.com/image-illustration/ethereum-hits-new-record-neon-260nw-1958528764.jpg"/>
       
-    <p>
-     <img src="https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-2to1-CzVMlcaMR0RW.jpg" width="1000px" height="400px"/>
-    </p>
-      <p>
-  <a href="https://www.w3schools.com">
-      <img class="onetwo" src="https://thumb.tildacdn.com/tild6664-3965-4361-b631-663461643039/-/format/webp/0-02-05-6d20ecf00906.jpg" width="100px" height="100px"/>     </a>
- <img class="onethree" src="https://thumb.tildacdn.com/tild6264-6339-4238-b636-346565623037/-/format/webp/0-02-05-6822e8ca7678.jpg" width="100px" height="100px"/> 
-          <img src="https://www.meme-arsenal.com/memes/ff9cb2c2d90f38fa38e72bda994f9e4f.jpg" width="500px" height="100px"/> 
- <img class="onefour" src="https://thumb.tildacdn.com/tild6664-3965-4361-b631-663461643039/-/format/webp/0-02-05-6d20ecf00906.jpg" width="100px" height="100px"/> 
-<img class="onefife" src="https://thumb.tildacdn.com/tild6264-6339-4238-b636-346565623037/-/format/webp/0-02-05-6822e8ca7678.jpg" width="100px" height="100px"/> 
-
-      </p>
-   <div class="close">close</div>
+       <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/FD37/production/_116432846_mediaitem116432845.jpg"/>
+ 
+    <div class="close">close</div>
+  </div>
   <div id="page1" class="screenpage">2
     <div class="close">close</div>
   </div>
