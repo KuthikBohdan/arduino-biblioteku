@@ -19,7 +19,7 @@
       
     <p>
      <img src="https://static.tildacdn.com/tild6130-6466-4932-b236-333137323237/6001368.png" width="400px" height="400px"/>
-         <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/FD37/production/_116432846_mediaitem116432845.jpg" width="400px" height="400px"/>
+         <img src="https://static.tildacdn.com/tild6133-3732-4863-b638-313638383737/Bitcoin.png" width="400px" height="400px"/>
     </p>
       <p>
   <a href="https://www.w3schools.com">
