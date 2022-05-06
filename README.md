@@ -18,8 +18,8 @@
       <h1>що є дорожче</h1>
       
     <p>
-     <img src="https://static.tildacdn.com/tild6130-6466-4932-b236-333137323237/6001368.png" width="490px" height="490px"/>
-         <img src="https://static.tildacdn.com/tild6133-3732-4863-b638-313638383737/Bitcoin.png" width="490px" height="490px"/>
+     <img src="https://static.tildacdn.com/tild6130-6466-4932-b236-333137323237/6001368.png" width="440px" height="440px"/>
+         <img src="https://static.tildacdn.com/tild6133-3732-4863-b638-313638383737/Bitcoin.png" width="440px" height="440px"/>
     </p>
       <p>
   <a href="https://www.w3schools.com">
