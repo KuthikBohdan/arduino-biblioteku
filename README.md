@@ -7,7 +7,10 @@
 <body>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <div class=container>
+     
+   
   <div id="page0" class="screenpage show">
+      
       <h1>що є дорожче</h1>
       
     <p>
@@ -65,9 +68,7 @@
       
     <div class="close">close</div>
   </div>
-  <div id="page3" class="screenpage">4
-    <div class="close">close</div>
-  </div>
+ 
   <div id="page4" class="screenpage">5
     <div class="close">close</div>
   </div>
