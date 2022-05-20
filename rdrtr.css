@@ -7,34 +7,7 @@
  pading-top:50px;
  pading-rite:50px
 }
-.onetwo{
- top:400px;
- rite:90px;
-  width:170px;
- height:100px;
- position:relative;
-}
-.onethree{
- top:300px;
-  left:90px;
-  width:170px;
- height:100px;
- position:relative;
-}
-.onefour{
-  top:400px;
- left:90px;
-  width:170px;
- height:100px;
- position:relative;
-}
-.onefour{
- top:300px;
- rite:90px;
- width:170px;
- height:100px;
- position:relative;
-}
+
 body{
  background-image:url(https://st.depositphotos.com/2011255/1939/i/600/depositphotos_19393893-stock-photo-green-grass-background.jpg)
 }
