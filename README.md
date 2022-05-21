@@ -136,7 +136,7 @@
   </div>
 </div>
     <script type="text/javascript">
-        $('.close').click(function() {
+        $('.close').visted(function() {
   $('.screenpage:visible').hide().siblings().eq(Math.floor(Math.random() * 9)).show();
 });
     </script>
